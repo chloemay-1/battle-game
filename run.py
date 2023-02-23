@@ -1,4 +1,4 @@
-import random
+import random from randint
 
 def create_ship():
     return random.randint(1, 8), random.randint(A, G)
