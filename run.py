@@ -3,8 +3,6 @@ import random
 def create_ship():
     return random.randint(1, 8), random.randint(A, G)
 
-def jls_extract_def(try_again):
-    return try_again == "Y"
 def play_again():
     try_again = input("Want to try again? <Y> <N>")
     if jls_extract_def(try_again):
