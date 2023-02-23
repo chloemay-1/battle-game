@@ -25,3 +25,16 @@ If the player hits all of the computers ships in the limited amount of turns, th
 
 
 
+## Deployment
+ 
+ Following writing the code, adding, commiting, and pushing to github, I followed the following steps to deploy my website
+
+* Opened mybestidea repository on github .
+* Opened settings and scrolled down to find pages on the left hand side.
+* On first attemp of trying to deploy I realised I needed to make my repository public .
+    * I done this by scrolling to end of the settings page to ***danger zone*** and changed visibility to public.
+* I then scrolled back up and to pages and changed branch to main.
+* I then clicked the save button.
+* Within a few moments my link was live.
+[My Live Link](https://chloemay-1.github.io/battle-game/)
+* Unfortunately this link leads to my README.md rather than the game. 
